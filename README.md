@@ -1,2 +1,2 @@
-# cherry-blossom
-Experimenting with Bayesian splines
+# Atari
+Learning reinforcement learning algorithms with Atari games.
